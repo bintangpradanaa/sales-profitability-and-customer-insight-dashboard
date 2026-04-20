@@ -8,7 +8,7 @@ This personal project is aimed at strengthening my Tableau skills, particularly 
 
 ## Resource
 You can explore the results and project details through the following links:
-- 📈 [Dashboard Tableau](https://public.tableau.com/app/profile/bintang.ary.pradana/viz/SalesCustomerDashboard_17208636461380/CustomerDashboard)
+- 📈 [Dashboard](https://public.tableau.com/app/profile/bintang.ary.pradana/viz/SalesCustomerDashboard_17208636461380/CustomerDashboard)
 - 🔗 [Requirement Document](https://docs.google.com/document/d/18E0e2iqv1F3QlfOrZQ1i2OaBPMK_xI75ToMQLjeZ9Mc)
 
 ## Project Overview
@@ -53,8 +53,3 @@ As a **BI Analyst**, I was responsible for translating business requirements fro
 - Region
 - State
 - City
-
-
-## Output
-- Interactive Tableau Dashboard
-- KPI monitoring system for management
